@@ -7,9 +7,9 @@ A public exploration into learning golang.
 * Enforcing `nvim` only IDE experience just for funsies
 
 ## Future explorations and ideas
-[ ] Basic web server
-[ ] Some sort of command line tool
-[ ] Publishing my logseq notes and ramblings related to golang
+- [ ] Basic web server
+- [ ] Some sort of command line tool
+- [ ] Publishing my logseq notes and ramblings related to golang
 
 ## Completed explorations to make me feel like I've accomplished something
-[X] Hellow(sic) world
+- [X] Hellow(sic) world
