@@ -4,6 +4,8 @@ A public exploration into learning golang.
 ## Current exploration
 * Learning the basics of golang by reviewing the official [documentation](https://go.dev/)
   * Working through the [Create a Go module](https://go.dev/doc/tutorial/create-module) tutorial and comparing it to JavaScript
+  * [Working with workspaces](https://go.dev/doc/tutorial/workspaces)
+  * [Accessing DBs](https://go.dev/doc/tutorial/database-access)
 * Enforcing `nvim` only IDE experience just for funsies
 
 ## Future explorations and ideas
