@@ -3,7 +3,7 @@ A public exploration into learning golang.
 
 ## Current exploration
 * Learning the basics of golang by reviewing the official [documentation](https://go.dev/)
-  * Working through the tutorial and comparing it to JavaScript
+  * Working through the [Create a Go module](https://go.dev/doc/tutorial/create-module) tutorial and comparing it to JavaScript
 * Enforcing `nvim` only IDE experience just for funsies
 
 ## Future explorations and ideas
